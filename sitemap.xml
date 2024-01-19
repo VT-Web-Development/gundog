@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--XML Sitemap created by RAGE Sitemap Automator 2.4 http://www.ragesw.com-->
+	<url>
+		<loc>http://gundogsvt.com</loc>
+		<lastmod>2011-04-20</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://gundogsvt.com/index.html</loc>
+		<lastmod>2011-04-20</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://gundogsvt.com/about.html</loc>
+		<lastmod>2011-04-19</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://gundogsvt.com/gallery.html</loc>
+		<lastmod>2011-04-19</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://gundogsvt.com/videos.html</loc>
+		<lastmod>2011-04-19</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://gundogsvt.com/forsale.html</loc>
+		<lastmod>2011-04-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://gundogsvt.com/contact.html</loc>
+		<lastmod>2011-04-19</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.5</priority>
+	</url>
+<!--XML Sitemap created by RAGE Sitemap Automator http://www.ragesw.com-->
+</urlset>
